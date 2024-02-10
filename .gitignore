@@ -1,3 +1,5 @@
 /hello
 /HelloGithub
 /venv
+*.html*
+*.txt
